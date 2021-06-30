@@ -161,12 +161,6 @@ clean() {
     command cd -
 }
 
-export JIRA_USERNAME="jira_srv_account@project44.com"
-export JIRA_PASSWORD="xp5JiIRxneOBh0FsjaZcA0EA"
-
-export JENKINS_USERNAME="jbecker44"
-export JENKINS_PASSWORD="444ba274fcfd8a8670da2a77cf55d1a6852900f1"
-
 alias python=python3
 alias pip=pip3
 
